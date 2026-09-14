@@ -1,0 +1,7 @@
+[project]
+name = "ai_learning"
+version = "0.1.0"
+description = "Hands-on AI learning project for local models, fine-tuning, RAG, and model experimentation"
+requires-python = ">=3.12"
+
+dependencies = []
